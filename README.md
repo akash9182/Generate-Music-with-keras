@@ -24,4 +24,4 @@ Note: `preprocess.py` must be modified to work with other MIDI files (the releva
 
 ##Credits
 
-The credits for this code go to[Siraj raval](https://github.com/llSourcell/How-to-Generate-Music-Demo) and [Ji Sung Kim](https://github.com/jisungk/deepjazz). I've merely created a wrapper to get people started.
+The credits for this code go to [Siraj raval](https://github.com/llSourcell/How-to-Generate-Music-Demo) and [Ji Sung Kim](https://github.com/jisungk/deepjazz)
