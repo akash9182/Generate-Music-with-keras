@@ -1,12 +1,12 @@
 It uses Keras & Theano, two deep learning libraries, to generate jazz music. Specifically, it builds a two-layer LSTM, learning from the given MIDI file. 
 
-##Dependencies
+### Dependencies
 
 * [Keras](http://keras.io/#installation)
 * [Theano](http://deeplearning.net/software/theano/install.html#bleeding-edge-install-instructions) ("bleeding-edge" version on GitHub)
 * [music21](http://web.mit.edu/music21/doc/installing/index.html)
 
-##Usage
+## Usage
 
 Run on CPU with command:  
 ```
@@ -22,6 +22,6 @@ Note: running Keras/Theano on GPU is formally supported for only NVIDIA cards (C
 Note: `preprocess.py` must be modified to work with other MIDI files (the relevant "melody" MIDI part needs to be selected). 
 
 
-##Credits
+## Credits
 
 The credits for this code go to [Siraj raval](https://github.com/llSourcell/How-to-Generate-Music-Demo) and [Ji Sung Kim](https://github.com/jisungk/deepjazz)
